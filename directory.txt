@@ -1,0 +1,55 @@
+***directory structure******
+
+## "***" means all the files and folders in our submition with the same name ##
+
+bengali.ai
+│   directory.txt
+│   pipeline.txt    
+│
+└───codes
+│   │   train.py
+│   │   test.py
+│   │   densenet.py
+│   │   scale_layers.py
+│   │   densenet121_weights_tf.h5
+│   │
+│   └───ddrop
+│   │  │   ***
+│   │  │   ***
+│   │   
+│   │
+│   └───imgaug-master
+│       │   ***
+│       │   ***
+│
+│   
+└───data (all train and test data folders will be placed here)
+     │
+     └───training-a
+     │  │   ...
+     │  │   ...
+     │   
+     └───training-b
+     │  │   ...
+     │  │   ...
+     │   
+     │
+     └─── ...
+     │  │   ...
+     │  │   ...
+     │   
+     │
+     └───testing-a
+     │  │   ...
+     │  │   ...
+     │   
+     │
+     └───testing-b
+     │  │   ...
+     │  │   ...
+     │   
+     │
+     └─── ...
+     │  │   ...
+     │  │   ...
+    
