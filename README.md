@@ -1,5 +1,5 @@
 # Kaggle_Numta-Bengali-Handwritten-Digit-Recognition
-This respiratory contains the codes and submission package for Team 'dekhi_ki_hoi', that stood 3rd position in the Kaggle Competition, Numta: Bengali Handwritten Digit Recognition The task was to build a classification model for Bengali handwritten digits that is robust even under severe noisy condition.
+This repository contains the codes and submission package for Team 'dekhi_ki_hoi', that stood 3rd position in the Kaggle Competition, Numta: Bengali Handwritten Digit Recognition The task was to build a classification model for Bengali handwritten digits that is robust even under severe noisy condition.
 
 ![alt text](https://github.com/udday2014/Kaggle_Numta-Bengali-Handwritten-Digit-Recognition/blob/master/standings.png)
 
