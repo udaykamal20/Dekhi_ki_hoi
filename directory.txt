@@ -16,11 +16,8 @@ bengali.ai
 │   └───ddrop
 │   │  │   ***
 │   │  │   ***
-│   │   
-│   │
-│   └───imgaug-master
-│       │   ***
-│       │   ***
+│     
+│  
 │
 │   
 └───data (all train and test data folders will be placed here)
